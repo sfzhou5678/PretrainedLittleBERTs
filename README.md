@@ -14,7 +14,7 @@
 
 ### PyTorch版
 
-pytorch版的24个模型打包下载链接：[百度网盘]() 提取码：
+pytorch版的24个模型打包下载链接：[百度网盘](https://pan.baidu.com/s/1IOM-ZTGyYuuMt5IiSTds7Q) 提取码：hc2l
 
 各模型独立的下载链接：
 
